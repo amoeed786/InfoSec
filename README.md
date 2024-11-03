@@ -1,6 +1,7 @@
 # InfoSec
 
 This repository is a collection of key concepts and practices in **Information Security**, primarily based on the handouts provided by **Dr. Muhammad Arif Butt**. It is designed to support a structured understanding of security principles with practical applications.
+This is Linux Based Course.
 
 ## Highlights
 
